@@ -43,7 +43,7 @@
 		/obj/item/oddity/common/coin, // Coins fit
 		/obj/item/oddity/common/photo_crime, // All sizes of photos should fit
 		/obj/item/oddity/common/photo_landscape,
-		/obj/item/oddity/common/photo_coridor,
+		/obj/item/oddity/common/photo_corridor,
 		/obj/item/oddity/common/photo_eyes,
 		/obj/item/oddity/common/paper_crumpled, // Papers fit
 		/obj/item/oddity/common/paper_bundle,

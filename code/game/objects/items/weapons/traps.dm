@@ -249,14 +249,7 @@ Freeing yourself is much harder than freeing someone else. Calling for help is a
 		to_chat(user, SPAN_NOTICE("Freeing yourself is very difficult. Perhaps you should call for help?"))
 
 	if (difficulty)
-		if(ishuman(user))
-			var/mob/living/carbon/human/H = user
-			if(!H.stats.getPerk(PERK_NO_OBFUSCATION))
-				to_chat(H, SPAN_NOTICE("You failed to release the trap. There was a [round(100 - difficulty)]% chance of success"))
-			else
-				to_chat(H, SPAN_NOTICE("You failed to release the trap. There was a [difficulty]% chance of failer"))
-		else
-			to_chat(user, SPAN_NOTICE("You failed to release the trap. There was a [round(100 - difficulty)]% chance of success"))
+		to_chat(user, SPAN_NOTICE("You failed to release the trap. There was a [round(100 - difficulty)]% chance of success"))
 
 
 /obj/item/beartrap/proc/attack_mob(mob/living/L)

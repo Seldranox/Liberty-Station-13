@@ -97,7 +97,7 @@
 		STAT_TGH = 4
 	)
 
-/obj/item/oddity/common/photo_coridor
+/obj/item/oddity/common/photo_corridor
 	name = "surreal maint photo"
 	desc = "The corridor in this photograph looks familiar, though something seems wrong about it; it's as if everything in it was replaced with an exact replica of itself."
 	icon_state = "photo_corridor"
@@ -202,7 +202,6 @@
 		STAT_ROB = 9,
 		STAT_VIG = 9
 	)
-	perk = PERK_NO_OBFUSCATION // The book opens your third eye when ascended
 
 /obj/item/oddity/common/broken_key
 	name = "broken key"
@@ -449,7 +448,6 @@
 		STAT_COG = 6,
 		STAT_MEC = 9
 	)
-	perk = PERK_NO_OBFUSCATION // The book opens your third eye when awakened
 
 /obj/item/oddity/common/photo_crime
 	name = "crime scene photo"

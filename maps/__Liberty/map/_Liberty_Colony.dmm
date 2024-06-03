@@ -50062,7 +50062,7 @@
 /area/liberty/maintenance/undergroundfloor2west)
 "jxY" = (
 /obj/structure/table/standard,
-/obj/item/oddity/common/photo_coridor,
+/obj/item/oddity/common/photo_corridor,
 /turf/simulated/floor/industrial/blue_slates_long,
 /area/liberty/maintenance/undergroundfloor1north)
 "jyb" = (

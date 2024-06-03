@@ -8,7 +8,7 @@
 				/obj/item/oddity/common/blueprint = 3,
 				/obj/item/oddity/common/coin = 3,
 				/obj/item/oddity/common/photo_landscape = 2,
-				/obj/item/oddity/common/photo_coridor = 2,
+				/obj/item/oddity/common/photo_corridor = 2,
 				/obj/item/oddity/common/photo_eyes = 1,
 				/obj/item/oddity/common/old_newspaper = 3,
 				/obj/item/oddity/common/paper_crumpled = 2,

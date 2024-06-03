@@ -79,13 +79,6 @@
 
 	stat_modifiers = list(STAT_VIG = 5, STAT_WIL = 5, STAT_TGH = -5, STAT_ROB = -5)
 
-/datum/category_item/setup_option/background/thoughts/true_data
-	name = "3rd Eye"
-	desc = "Due to being more intoned with what you are and what's around you, things that were once hidden behind probability or guessing are shown to you as factual odds."
-	perks = list(PERK_NO_OBFUSCATION)
-
-	stat_modifiers = list(STAT_VIG = 5, STAT_WIL = -5, STAT_COG = 5, STAT_MEC = -5)
-
 
 /* - Psionics can't be started with currently. Until Psionics are reworked this will be disabled.
 /datum/category_item/setup_option/background/thoughts/inland_empire
