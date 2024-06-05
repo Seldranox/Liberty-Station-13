@@ -1,6 +1,6 @@
 /mob/living/carbon/superior_animal/roach/roachling
-	name = "Roach"
-	desc = "A tiny cockroach. It never stays still for long."
+	name = "Roachling"
+	desc = "A tiny cockroach. It never stays still for long... Or that size."
 	icon_state = "roachling"
 
 	turns_per_move = 3

@@ -1,7 +1,7 @@
 //Fuhrer roach is a colossal, slow moving leader
 /mob/living/carbon/superior_animal/roach/fuhrer
-	name = "Overlord Roach"
-	desc = "A glorious leader of cockroaches. Watch out for his deafening scream!"
+	name = "Hauptmann Roach"
+	desc = "A large, mean, yellow carapace cockroach that stands out from other roaches. Commonly heard to have a pack around them. Watch out for its deafening scream!"
 	icon_state = "fuhrer"
 
 	turns_per_move = 4

@@ -1,5 +1,5 @@
 /mob/living/carbon/superior_animal/roach/hunter
-	name = "Hunter-Killer Roach"
+	name = "Jager Roach"
 	desc = "A monstrous, dog-sized cockroach. This one has bigger claws."
 	icon_state = "jager"
 

@@ -4,8 +4,8 @@ Has ability of every roach.
 */
 
 /mob/living/carbon/superior_animal/roach/kaiser
-	name = "Hivelord Roach"
-	desc = "A glorious emperor of roaches. Watch out for his spit!"
+	name = "Kaiser Roach"
+	desc = "The largest of the roaches ever recorded to date, easily reaching sizes up to a small dorm. It exhumes a toxic cloud of gas when threatened! Watch out for its spit!"
 	icon = 'icons/mob/64x64.dmi'
 	icon_state = "kaiser_roach"
 	icon_dead = "kaiser_roach_dead"
